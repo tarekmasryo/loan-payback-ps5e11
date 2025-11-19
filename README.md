@@ -1,4 +1,4 @@
-# 💰 Loan Payback — EDA & Stacked Ensemble (Kaggle PS S5E11)
+# 💰 Loan Payback — EDA & Stacked Ensemble (PS S5E11)
 
 Compact, production-style notebook for the **Kaggle Playground Series S5E11** loan payback task.
 
